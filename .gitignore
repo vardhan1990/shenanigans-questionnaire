@@ -6,6 +6,7 @@ secrets.txt
 
 # Compiled Object files
 *.slo
+*.suo
 *.lo
 *.o
 *.obj
