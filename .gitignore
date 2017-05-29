@@ -1,3 +1,6 @@
+#Files with secret content
+secrets.txt
+
 # Prerequisites
 *.d
 
